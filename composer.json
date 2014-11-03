@@ -1,5 +1,5 @@
 {
-    "name":"doctrine/oxm",
+    "name":"CodeBabo/oxm",
     "type":"library",
     "description":"Object-XML-Mapper for PHP",
     "keywords":["oxm", "xml"],
